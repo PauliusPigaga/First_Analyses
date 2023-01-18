@@ -173,6 +173,6 @@ FROM FullTable
 
 ```
 First row from first query:
-event_date	user_pseudo_id	visit_timestamp	purchase_timestamp	event_value_in_usd	category	operating_system	browser	browser_version	country	Time_Difference	Average	Standard_deviation
-2020-12-11	7529108.3603947452	2020-12-11 07:31:12.790565 UTC	2020-12-11 12:02:01.784606 UTC	22.0	mobile	Android	Chrome	87.0	United States	270	74.166840458811279	173.88525252177826
+event_date |	user_pseudo_id	| visit_timestamp	purchase_timestamp	| event_value_in_usd	| category |	operating_system |	browser |	browser_version |	country | Time_Difference |	Average	Standard_deviation |
+2020-12-11	7529108.36	2020-12-11 07:31:12.790565 UTC	2020-12-11 12:02:01.784606 UTC	22	mobile	Android	Chrome	87	United States	270	74.16684046	173.8852525
 
