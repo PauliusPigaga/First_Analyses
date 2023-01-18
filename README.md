@@ -2,7 +2,7 @@
 
 ___________________________________________________________________________________
 
-# Marketing Analysis (2nd project)
+## Marketing Analysis (2nd project)
 
 ### Task Description:
 You have a follow up task from your marketing manager to identify overall trends of all marketing campaigns on your ecommerce site. She is particularly interested in finding out if users tend to spend more time on your website on certain weekdays and how that behavior differs across campaigns.
@@ -246,7 +246,7 @@ Presentation of analysis:
 ![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0005.jpg)
 
 
-# Product Analysis (1st project)
+## Product Analysis (1st project)
 
 ### Task Description:
 You have a follow up task from your product manager to identify how much time it takes for a user to make a purchase on your website. Your PM would like to see the duration from first visit of a user on a particular day until first purchase on that same day. Your final result should show the duration dynamic daily.
