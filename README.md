@@ -1,3 +1,7 @@
+# My first analyses using real-world data and techniques learned at Turing College.
+
+___________________________________________________________________________________
+
 # Marketing Analysis (2nd project)
 
 ### Task Description:
