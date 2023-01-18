@@ -174,4 +174,10 @@ FROM FullTable
 ```
 Presentation of analysis:
 ![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0001.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0002.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0003.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0004.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0005.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0006.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0007.jpg)
 
