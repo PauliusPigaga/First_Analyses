@@ -13,7 +13,7 @@ You have a follow up task from your marketing manager to identify overall trends
 
 #### SQL Query for data extraction:
 
-Marketing Analysis/Marketing Analysis.sql
+(https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/Marketing%20Analysis.sql)
 
 
 #### Presentation of analysis:
