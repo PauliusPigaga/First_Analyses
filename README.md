@@ -172,7 +172,6 @@ SELECT -- Aggregating the data.
 FROM FullTable
 
 ```
-First row from first query:
-event_date |	user_pseudo_id	| visit_timestamp	purchase_timestamp	| event_value_in_usd	| category |	operating_system |	browser |	browser_version |	country | Time_Difference |	Average	Standard_deviation |
-2020-12-11	7529108.36	2020-12-11 07:31:12.790565 UTC	2020-12-11 12:02:01.784606 UTC	22	mobile	Android	Chrome	87	United States	270	74.16684046	173.8852525
+Presentation of analysis:
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/ABP.1_Product_Analysis%20(2)_page-0001.jpg)
 
