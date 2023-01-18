@@ -236,10 +236,10 @@ SELECT * FROM DailyMetrics
 ```
 Presentation of analysis:
 ![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0001.jpg)
-![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0002jpg)
-![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0003jpg)
-![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0004jpg)
-![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0005jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0002.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0003.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0004.jpg)
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Marketing%20Analysis/ABP.2_Marketing_Analysis%20(2)_page-0005.jpg)
 
 
 # Product Analysis (1st project)
