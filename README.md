@@ -5,7 +5,7 @@
 You have a follow up task from your product manager to identify how much time it takes for a user to make a purchase on your website. Your PM would like to see the duration from first visit of a user on a particular day until first purchase on that same day. Your final result should show the duration dynamic daily.
 
 ## Database Schema
-
+![](https://github.com/PauliusPigaga/First_Analyses/blob/main/Product%20Analysis/Schema.JPG)
 
 
 ## SQL Queries
